@@ -11,7 +11,7 @@ si n : n % 2 = 1 se determina inpar
 ### output
 respuesta 
 # Diseño
-![Diagrama de flujo](diagrama.png "Diagrama de flujo ")
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo ")
 
 # Construccion
 
